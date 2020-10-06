@@ -20,6 +20,8 @@
   "homepage": "https://github.com/ZararAhmed/node-react-mongoDB-sample#readme",
   "dependencies": {
     "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "lite-server": "^2.5.4"
   }
